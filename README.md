@@ -1,5 +1,5 @@
 # google-pubsub-sample
 
 
-# Maven Dependency
+### Maven Dependency
 com.google.cloud:google-cloud-pubsub:0.12.0-alpha
