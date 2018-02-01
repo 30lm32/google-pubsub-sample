@@ -1,7 +1,10 @@
 # Google Cloud Pubsub Lib.
 
-In this repo, you would find a simple implementation about Google Cloud Pub/Sub in Java.
+In this repo, you would find a simple implementation about Google Cloud Pub/Sub clients in Java.
 Since it is tough to find a sufficient implementation of Pub/Sub in Java, I collected all possible methods into a single Java class.
+
+Please, check out the official web site of Google to get further information about Google Cloud Pub/Sub, below.
+https://cloud.google.com/pubsub/docs/
 
 ### Dependency for Maven
 com.google.cloud:google-cloud-pubsub:0.12.0-alpha
